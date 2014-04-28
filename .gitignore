@@ -1,0 +1,5 @@
+.vagrant
+data
+puppet/modules
+Vagrantfile.old
+Vagrantfile.old2
